@@ -1,1 +1,1 @@
-# parallel-Jenkins-syntax
+# jenkins-parallel-job
